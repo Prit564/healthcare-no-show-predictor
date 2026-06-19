@@ -36,6 +36,5 @@ Contains age, gender, appointment dates, waiting days, patients' living area, tr
 ---
 ### Demographics vs No Show
 ![Demographics vs No Show](images/demo_vs_.png)
-**Key Observations:**
 * **Class Imbalance:** The density plots (diagonal) clearly illustrate a significant imbalance, with the vast majority of patients attending their appointments (Class 0).
 * **Feature Relationships:** The scatter distributions between `age`, `gender`, and `children_count` do not reveal strong linear correlations or distinct clusters that isolate the no-show instances (Class 1), suggesting that behavioral or clinical factors may be stronger predictors than basic demographics alone.
