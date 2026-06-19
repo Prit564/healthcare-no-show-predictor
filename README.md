@@ -31,7 +31,7 @@ Contains age, gender, appointment dates, waiting days, patients' living area, tr
 
 # Images
 ### Chronic Disease vs No Show
-![Chronic Disease vs No Show](images/chronic_diseases_vs_no_show.png)
+![Chronic Disease vs No Show](images/chronic_disease_vs_no_show.png)
 * Patients with Chronic Diseases are more likely to show up in the follow dates.
 ---
 ### Demographics vs No Show
